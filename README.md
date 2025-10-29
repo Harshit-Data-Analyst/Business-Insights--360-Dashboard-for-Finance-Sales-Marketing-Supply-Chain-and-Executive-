@@ -4,7 +4,7 @@
 
 This project aims to streamline and optimize various aspects of AtliQ Hardware's business—covering **Finance**, **Sales**, **Supply Chain**, **Executive Management**, and **Marketing**. The dashboard provides actionable insights and supports data-driven decision-making.
 
-🔗 **[Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiN2Y3OTExN2EtNWFlNC00MTM5LTg2Y2MtYzVmMmIyYmM4MzU2IiwidCI6IjE1YmZhYjUzLWJlZmEtNGEyYS1hZThlLTdkZWZhODA0MmQ1MyJ9)**
+🔗 **[Live Dashboard Link](https://app.fabric.microsoft.com/view?r=eyJrIjoiODI3ODAwYjItMjg5Zi00OTllLWI5OTgtNjBkM2ZhNTBjNmU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
 ---
 
